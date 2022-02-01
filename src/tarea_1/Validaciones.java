@@ -10,10 +10,13 @@ package tarea_1;
  * @author lphg3
  */
 public class Validaciones {
-    oracion_1 = 
+  
+       
+           
    public void vocal (){
-       for (int i = 0; i < oracion_1.charAt(); i++) {
-           Object object = arr[i];
+       
+       String vocal = null;
+       for (int i = 0; i < .charAt(5); i++) {
            
        }
 

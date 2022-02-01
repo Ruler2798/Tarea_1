@@ -52,7 +52,8 @@ public static void pig_latin (){
            
     System.out.println("Ingrese su oracion en ingles");
     oracion_1 = lector.next();
-    for (int i = 0; i < oracion_1.charAt(5); i++) {
+    for (int i = 0; i < oracion_1.charAt(0); i++) {
+        
       
         
     }
