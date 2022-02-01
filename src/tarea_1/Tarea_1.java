@@ -48,10 +48,14 @@ public class Tarea_1 {
 public static void pig_latin (){
     Scanner lector = new Scanner(System.in);
     String oracion_1;
+    
+           
     System.out.println("Ingrese su oracion en ingles");
     oracion_1 = lector.next();
-    
-          
+    for (int i = 0; i < oracion_1.charAt(5); i++) {
+      
+        
+    }
               
 }
 
