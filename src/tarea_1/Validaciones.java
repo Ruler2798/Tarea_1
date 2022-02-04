@@ -13,10 +13,12 @@ public class Validaciones {
   
        
            
-   public void vocal (){
+   public void vocal (Tarea_1){
        
        String vocal = null;
-       for (int i = 0; i < .charAt(5); i++) {
+       for (int i = 0; i < .charAt(0); i++) {
+       
+       
            
        }
 
